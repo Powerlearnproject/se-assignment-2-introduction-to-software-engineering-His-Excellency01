@@ -26,8 +26,14 @@ Skills: Programmers need strong coding skills, while software engineers require 
 
 Process: Programming can be more individualistic, while software engineering is often a collaborative effort.
 
-Software Development Life Cycle (SDLC):
-Answer:
+**Software Development Life Cycle (SDLC):**
+
+
+Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
+Agile vs. Waterfall Models:
+
+**Answer:**
+
 1 Requirements
 2 Design
 3 Implementation
@@ -35,10 +41,6 @@ Answer:
 5 Deployment
 6 Maintenance
 
-Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
-Agile vs. Waterfall Models:
-
-**Answer:**
 Requirement: Gathering and documenting user needs and system requirements.
 Design: Creating high-level and detailed designs of the software archutecture and user interface.
 Implementation: Writing code and building the software according to the design specification.
@@ -49,15 +51,16 @@ Maintenance: Providing ongoing support, updates, and enhancements to the softwar
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
 **Answer:**
+
 Waterfall is the sequential approach with distinct phases eg., requirements, design, implementation flowing downwards like a waterfall while Agile is the iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
-Choosing the Right Model:
+**Choosing the Right Model:**
 
 Waterfall: For projects with clear requirements, fixed deadlines, and a need for a structured approach. Think: developing a new banking application with strict security regulations.
 
 Agile: For projects with changing requirements, a need for flexibility and innovation, and a focus on user feedback. Think: developing a mobile app where user feedback will determine future features.
 
-Requirements Engineering:
+**Requirements Engineering:**
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 
@@ -87,7 +90,7 @@ Measurable Success: Clearly defined requirements allow for measuring the success
 
 4 Reduced Maintenance Costs: Well-documented requirements make it easier to maintain and update the software in the future.
 
-Software Design Principles:
+**Software Design Principles:**
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 
@@ -119,7 +122,7 @@ Benefits of Modularity:
 
 3 Better Code Organization: Modular design promotes well-organized code structure, making it easier for developers to navigate and understand the system
 
-Testing in Software Engineering:
+**Testing in Software Engineering:**
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
@@ -161,7 +164,7 @@ Enhanced User Experience: Testing ensures the software functions as intended and
 
 Increased Confidence: Thorough testing gives developers and stakeholders confidence in the software's functionality and performance.
 
-Version Control Systems:
+**Version Control Systems:**
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 
@@ -198,7 +201,7 @@ Branching and Merging: As mentioned earlier, VCS allows creating branches to wor
 
 Conflict Resolution: When multiple developers modify the same part of the code, VCS helps identify and resolve conflicts efficiently.
 
-Software Project Management:
+**Software Project Management:**
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
@@ -232,7 +235,7 @@ Communication Breakdown: Clear and consistent communication between all stakehol
 
 Staying Up-to-Date: The software development landscape is constantly evolving. The project manager needs to stay up-to-date with new technologies, methodologies, and best practices to lead the team effectively.
 
-Software Maintenance:
+**Software Maintenance:**
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
@@ -266,7 +269,7 @@ Performance Optimization: Software performance can degrade over time. Maintenanc
 
 Reduced Costs: Regular maintenance can help prevent costly downtime and major fixes later in the software's lifespan.
 
-Ethical Considerations in Software Engineering:
+**Ethical Considerations in Software Engineering:**
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
