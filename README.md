@@ -8,13 +8,17 @@ Answer the following questions based on your understanding of software engineeri
 Questions:
 Define Software Engineering:
 
-Answer: Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products
+**Answer:**
+
+Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of high-quality software systems. It involves the design, development, testing, deployment, and maintenance of software products
 
 What is software engineering, and how does it differ from traditional programming?
 
-Answer: Software engineering is a discipline that involves the application of systematic, disciplined, and quantifiable approaches to the development, operation, and maintenance of software systems.
+**Answer:** 
 
-Key Differences:
+Software engineering is a discipline that involves the application of systematic, disciplined, and quantifiable approaches to the development, operation, and maintenance of software systems.
+
+**Key Differences:**
 
 Scope: Programming focuses on the code itself, while software engineering takes a holistic view of the entire software development process.
 
@@ -34,7 +38,7 @@ Answer:
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
 Agile vs. Waterfall Models:
 
-Answer:
+**Answer:**
 Requirement: Gathering and documenting user needs and system requirements.
 Design: Creating high-level and detailed designs of the software archutecture and user interface.
 Implementation: Writing code and building the software according to the design specification.
@@ -44,7 +48,7 @@ Maintenance: Providing ongoing support, updates, and enhancements to the softwar
 
 Compare and contrast the Agile and Waterfall models of software development. What are the key differences, and in what scenarios might each be preferred?
 
-Answer:
+**Answer:**
 Waterfall is the sequential approach with distinct phases eg., requirements, design, implementation flowing downwards like a waterfall while Agile is the iterative and incremental approach focused on flexibility, collaboration, and responding to change.
 
 Choosing the Right Model:
@@ -57,7 +61,7 @@ Requirements Engineering:
 
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 
-Answer:
+**Answer:**
 In software development, Requirements Engineering (RE) is the crucial first step that lays the foundation for a successful project. It's the systematic process of gathering, analyzing, documenting, and validating the needs and expectations of all stakeholders (users, clients, developers) involved in building a software system.
 
 Requirement Engineering process:
@@ -87,7 +91,7 @@ Software Design Principles:
 
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 
-Answer:
+**Answer:**
 modularity is the principle of breaking down a complex system into smaller, self-contained units called modules. These modules are designed to perform specific tasks and interact with each other through well-defined interfaces.
 
 How modularity improves software systems:
@@ -119,7 +123,7 @@ Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?
 
-Answer:
+**Answer:**
 
 In software development, testing plays a vital role in ensuring the quality and functionality of the final product.  Here's a breakdown of the different levels of testing, each with a specific focus:
 
@@ -161,7 +165,7 @@ Version Control Systems:
 
 What are version control systems, and why are they important in software development? Give examples of popular version control systems and their features.
 
-Answer:
+**Answer:**
 
 A version control system (VCS) is an essential tool for managing changes to code and other project files. It acts like a digital filing cabinet, keeping track of every modification made to your project over time.
 
@@ -198,7 +202,7 @@ Software Project Management:
 
 Discuss the role of a software project manager. What are some key responsibilities and challenges faced in managing software projects?
 
-Answer:
+**Answer:**
 
 A software project manager is the conductor of the development orchestra, ensuring all instruments (developers, designers, testers) play their parts in harmony to deliver a successful software product. Here's a breakdown of their key roles and the challenges they navigate:
 
@@ -232,7 +236,7 @@ Software Maintenance:
 
 Define software maintenance and explain the different types of maintenance activities. Why is maintenance an essential part of the software lifecycle?
 
-Answer:
+**Answer:**
 
 Software maintenance is the process of modifying and updating software after it has been deployed. It's not a one-time fix, but an ongoing effort throughout the software's lifespan to ensure it continues to function correctly, meet user needs, and adapt to changing environments.
 
@@ -266,7 +270,7 @@ Ethical Considerations in Software Engineering:
 
 What are some ethical issues that software engineers might face? How can software engineers ensure they adhere to ethical standards in their work?
 
-Answer:
+**Answer:**
 
 Software engineers wield immense power in shaping our digital world.  This power comes with a responsibility to use their skills ethically. Here are some common ethical issues software engineers might face:
 
@@ -297,7 +301,8 @@ Stay Up-to-Date on Ethical Issues: Continuously learn about emerging ethical iss
 
 Uphold Professional Codes of Conduct: Many professional engineering organizations have codes of ethics that can guide engineers in their work.
 
-References:
+**References:**
+
 Power Learn Project Software Engineering Lecture materials
 Gemini
 
