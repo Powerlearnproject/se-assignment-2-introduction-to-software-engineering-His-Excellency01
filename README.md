@@ -65,6 +65,7 @@ Agile: For projects with changing requirements, a need for flexibility and innov
 What is requirements engineering? Describe the process and its importance in the software development lifecycle.
 
 **Answer:**
+
 In software development, Requirements Engineering (RE) is the crucial first step that lays the foundation for a successful project. It's the systematic process of gathering, analyzing, documenting, and validating the needs and expectations of all stakeholders (users, clients, developers) involved in building a software system.
 
 Requirement Engineering process:
@@ -95,6 +96,7 @@ Measurable Success: Clearly defined requirements allow for measuring the success
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 
 **Answer:**
+
 modularity is the principle of breaking down a complex system into smaller, self-contained units called modules. These modules are designed to perform specific tasks and interact with each other through well-defined interfaces.
 
 How modularity improves software systems:
